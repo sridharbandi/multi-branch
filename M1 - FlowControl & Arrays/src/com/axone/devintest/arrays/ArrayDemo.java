@@ -30,12 +30,16 @@ public class ArrayDemo {
 		}
 		
 		//create an array with classes of your own
-		Employee[] empArray = new Employee[3];
+		Employee[] empArray = new Employee[5];
 		empArray[0] = new Employee();
 		empArray[1] = new Employee();
 		empArray[2] = new Employee();
-		
+		empArray[3] = new Employee();
+		empArray[4] = new Employee();
+
 		File[] fileArray = new File[5];
+
+
 	}
 
 }
