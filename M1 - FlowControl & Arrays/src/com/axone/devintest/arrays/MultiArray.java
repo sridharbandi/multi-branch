@@ -21,13 +21,7 @@ public class MultiArray {
 		
 		String[] row1 = empDetails[0];
 		
-		//print the values in row1 retrieved from the 2d array
-		/*for (int i=0; i < row1.length; i++){
-			System.out.println(row1[i]);
-		}*/
-		
-		//String[] row2 = empDetails[1];
-		//String[] row3 = empDetails[2];
+
 		
 		int cols = row1.length;
 
@@ -38,5 +32,7 @@ public class MultiArray {
 		}
 		
 	}
+
+
 
 }
