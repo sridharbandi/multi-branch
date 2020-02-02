@@ -6,7 +6,7 @@ public class Employee {
 	String empName;
 	
 	public Employee(){
-		
+		//do nothing
 	}
 	
 	public String getEmpName(){
