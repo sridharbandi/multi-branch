@@ -6,7 +6,7 @@ public class Employee {
 	String empName;
 	
 	public Employee(){
-		//do nothing
+		System.out.println("Constrcutor");
 	}
 	
 	public String getEmpName(){
