@@ -32,7 +32,7 @@ public class AppUtilsTest {
 	@Test
 	public void test4_multiply(){
 		int actRes = aUtl.add(10, 2);
-		int expRes = 20;
+		int expRes = 30;
 		assertEquals(expRes, actRes);
 	}
 
