@@ -21,9 +21,7 @@ public class JUnitDemo {
 	//gets run only once at the beginning of the class being run.
 	@BeforeClass
 	public static void loadTestData(){
-		//remove all records from DB
-		//Data setup - Add a ticket which is going to be used for check status
-		//Data setup - Add a ticket which is going to be used for cancel
+
 		System.out.println("Loading Test Data");
 	}
 	

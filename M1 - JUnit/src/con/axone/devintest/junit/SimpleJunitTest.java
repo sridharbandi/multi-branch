@@ -5,13 +5,13 @@ import org.junit.Test;
 
 public class SimpleJunitTest {
 
-	@Test
+	@Ignore
 	public void test1(){
 		System.out.println("running a test");
 	}
 	
 	
-	@Test
+	@Ignore
 	public void test2(){
 		System.out.println("running test2");
 	}

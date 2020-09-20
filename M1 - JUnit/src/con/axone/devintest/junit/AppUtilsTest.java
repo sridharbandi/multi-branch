@@ -36,11 +36,6 @@ public class AppUtilsTest {
 		assertEquals(expRes, actRes);
 	}
 
-	@Test
-	public void test5_multiply(){
-		int actRes = aUtl.add(10, 2);
-		int expRes = 30;
-		assertEquals(expRes, actRes);
-	}
+
 
 }
