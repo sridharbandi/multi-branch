@@ -16,7 +16,8 @@ public class JUnitParametrisedTest {
 	String uName;
 	String passwd;
 	int type;
-	
+	int sum;
+
 	public JUnitParametrisedTest(String uName, String passwd, int type){
 		this.uName = uName;
 		this.passwd = passwd;
