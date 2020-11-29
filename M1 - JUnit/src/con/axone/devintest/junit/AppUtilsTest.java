@@ -6,6 +6,8 @@ import org.junit.Test;
 
 public class AppUtilsTest {
 
+	//Initialisng appUtils class
+
 	AppUtils aUtl = new AppUtils();
 	
 	@Test
