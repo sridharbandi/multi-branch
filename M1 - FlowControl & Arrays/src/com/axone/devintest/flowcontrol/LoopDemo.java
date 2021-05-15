@@ -52,6 +52,15 @@ public class LoopDemo {
 		return sum;
 	}
 
+	public int useFor1(int n){
+		int sum =0;
+
+		for(int count=0; count <= n; count ++){
+			sum = sum + count;
+		}
+
+		return sum;
+	}
 
 
 	public static void main(String[] hei) {
@@ -59,6 +68,7 @@ public class LoopDemo {
 		int sum = lDemo.useDoWhile(4);
 		//int sum = lDemo.useWhile(4);
 		//int sum = lDemo.useFor(4);
+		System.out.println(sum);
 		System.out.println(sum);
 	}
 
