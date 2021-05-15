@@ -28,8 +28,6 @@ public class ArrayDemo {
 		for(int i=0; i <names.length; i++){
 			System.out.println(names[i]);
 		}
-		
-
 
 		File[] fileArray = new File[5];
 			//comment

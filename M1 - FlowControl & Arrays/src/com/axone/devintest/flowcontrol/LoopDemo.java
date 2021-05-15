@@ -51,7 +51,9 @@ public class LoopDemo {
 		
 		return sum;
 	}
-	
+
+
+
 	public static void main(String[] hei) {
 		LoopDemo lDemo = new LoopDemo();
 		int sum = lDemo.useDoWhile(4);
