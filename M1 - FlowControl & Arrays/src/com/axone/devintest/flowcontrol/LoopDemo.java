@@ -48,7 +48,7 @@ public class LoopDemo {
 		for(int count=0; count <= n; count ++){
 			sum = sum + count;
 		}
-		
+		//Returning the value of sum
 		return sum;
 	}
 
