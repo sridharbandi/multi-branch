@@ -4,6 +4,11 @@ public class Employee {
 
 	int empID;
 	String empName;
+
+	/**
+	 *
+	 * Some javadoc comments
+	 */
 	
 	public Employee(){
 		System.out.println("Constrcutor");
@@ -12,5 +17,7 @@ public class Employee {
 	public String getEmpName(){
 		return empName;
 	}
+
+
 	
 }
