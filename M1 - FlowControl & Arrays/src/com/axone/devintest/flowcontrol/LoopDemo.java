@@ -10,6 +10,8 @@ public class LoopDemo {
 	 * @param - first n numbers to be added
 	 * @return - sum of the first n numbers
 	 */
+
+	//new comments
 	public int useDoWhile(int n){
 		int sum = 0;
 		int count = 0;
@@ -42,17 +44,15 @@ public class LoopDemo {
 	 * @param - first n numbers to be added
 	 * @return - sum of the first n numbers
 	 */
-	public int useFor(int n){
-		int sum =0;
-		
-		for(int count=0; count <= n; count ++){
+	public int useFor(int n) {
+		int sum = 0;
+
+		for (int count = 0; count <= n; count++) {
 			sum = sum + count;
 		}
 		//Returning the value of sum
 		return sum;
 	}
-
-
 
 	public static void main(String[] hei) {
 		LoopDemo lDemo = new LoopDemo();
