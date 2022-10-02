@@ -8,6 +8,7 @@ public class ArrayDemo {
 		
 		//initialse the values of an array at the time of creation
 		String[] tools = {"Selenium", "Cucumber" , "JBehave"};
+		String[] toolsNew = {"Selenium", "Cucumber" , "JBehave"};
 		System.out.println(tools[2]);
 		
 		//primitive data types are also allowed
@@ -32,7 +33,9 @@ public class ArrayDemo {
 
 		File[] fileArray = new File[5];
 			//comment
-
+		/*
+		I'm adding a block comment
+		 */
 	}
 
 }
