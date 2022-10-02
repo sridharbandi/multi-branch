@@ -24,5 +24,9 @@ public class SimpleJunitTest {
 	private int someMethod(){
 		return 0;
 	}
+
+	private int someMethod2(){
+		return 1;
+	}
 	
 }
