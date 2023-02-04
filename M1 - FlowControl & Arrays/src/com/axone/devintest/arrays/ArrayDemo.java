@@ -25,6 +25,8 @@ public class ArrayDemo {
 		names[9] = "Jack";
 		
 		System.out.println(names.length);
+		System.out.println(names.length);
+		System.out.println(names.length);
 		
 		for(int i=0; i <names.length; i++){
 			System.out.println(names[i]);
