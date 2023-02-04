@@ -6,6 +6,7 @@ public class Employee {
 	String empName;
 	int empAge;
 	int holidays;
+	private int salary;
 
 	/**
 	 *
