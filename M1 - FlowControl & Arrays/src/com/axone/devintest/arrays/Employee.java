@@ -21,6 +21,10 @@ public class Employee {
 		return empName;
 	}
 
+	private void doSomething(){
+		System.out.println("doing something");
+	}
+
 
 	
 }

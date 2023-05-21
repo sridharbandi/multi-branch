@@ -20,6 +20,16 @@ public class SimpleJunitTest {
 	public void test3(){
 		System.out.println("running test2");
 	}
+
+	@Test
+	public void test4(){
+		System.out.println("running test4");
+	}
+
+	@Test
+	public void test5(){
+		System.out.println("running test5");
+	}
 	
 	private int someMethod(){
 		return 0;
