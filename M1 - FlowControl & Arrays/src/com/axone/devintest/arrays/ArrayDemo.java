@@ -38,4 +38,8 @@ public class ArrayDemo {
 		File[] fileArray = new File[5];
 	}
 
+	private void test(){
+		System.out.println("Completed");
+	}
+
 }
