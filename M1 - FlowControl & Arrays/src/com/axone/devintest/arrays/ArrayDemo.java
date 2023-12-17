@@ -40,4 +40,8 @@ public class ArrayDemo {
 		 */
 	}
 
+	private void test(){
+		System.out.println("Completed");
+	}
+
 }
