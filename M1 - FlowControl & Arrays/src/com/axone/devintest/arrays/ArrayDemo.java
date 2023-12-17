@@ -44,4 +44,8 @@ public class ArrayDemo {
 		System.out.println("Completed");
 	}
 
+	private void test2(){
+		System.out.println("Completed");
+	}
+
 }

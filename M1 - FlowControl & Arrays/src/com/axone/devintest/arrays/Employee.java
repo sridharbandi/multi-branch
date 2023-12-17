@@ -25,6 +25,14 @@ public class Employee {
 		System.out.println("doing something");
 	}
 
+	private void test(){
+		System.out.println("Completed");
+	}
+
+	private void test2(){
+		System.out.println("Completed");
+	}
+
 
 	
 }
