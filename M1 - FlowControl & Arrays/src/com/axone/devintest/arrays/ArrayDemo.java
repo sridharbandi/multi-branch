@@ -15,7 +15,7 @@ public class ArrayDemo {
 		int[] numbers = new int[5];
 		numbers[0] = 93470973;
 		
-		int[] someNumbers ={3490, 34990, 907430};
+		int[] someNumbers ={3490, 34990, 907431};
 		
 		System.out.println(numbers.length);
 		
