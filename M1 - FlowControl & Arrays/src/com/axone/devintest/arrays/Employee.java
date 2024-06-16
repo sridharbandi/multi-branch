@@ -33,6 +33,8 @@ public class Employee {
 		System.out.println("Completed");
 	}
 
-
+	private void test3(){
+		System.out.println("Completed");
+	}
 	
 }
